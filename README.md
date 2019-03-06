@@ -1,2 +1,3 @@
-# publish_actions
-I sell Facebook apps with publish_actions permission approved 
+# Facebook apps with all permissions approved
+Facebook apps with instant games/Instagram/WhatsApp
+/publish gruop/user_posts/user_photos .....all permissions approved 
